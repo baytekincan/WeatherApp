@@ -1,0 +1,2 @@
+City: Bilecik
+Temperature Unit: Fahrenheit
